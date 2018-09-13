@@ -1,4 +1,4 @@
 # hello-world
-The first repository for learning
+Hi I'm Frank and I'm learning github. This is the first repository for learning
 
-Adding second line to make some changes to practice commits.
+Now I'm adding a second line for commit.
